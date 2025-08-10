@@ -18,9 +18,9 @@ The **Blood Bank Management System** is a web-based application built using **PH
 
 ## 📽️ Project Output
 
-<img width="1893" height="940" alt="Image" src="https://github.com/user-attachments/assets/1194a8d3-5f8d-4744-83c7-f8db703f3bcc" />
+<img width="1893" height="940" alt="Image" src="https://github.com/user-attachments/assets/39831cde-c5c6-4b69-9965-d7440afd4388" />
 
-<img width="1888" height="937" alt="Image" src="https://github.com/user-attachments/assets/4db423a3-a17f-4739-8da2-fa865480234b" />
+<img width="1888" height="937" alt="Image" src="https://github.com/user-attachments/assets/dcd2065a-6518-4432-8825-a4fc5b846343" />
 
 
 
